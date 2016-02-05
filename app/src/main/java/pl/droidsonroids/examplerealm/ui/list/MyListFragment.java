@@ -16,7 +16,7 @@ import pl.droidsonroids.examplerealm.model.MyBook;
 
 public class MyListFragment extends Fragment {
 
-    @Bind(R.id.reycler_view) RecyclerView mRecyclerView;
+    @Bind(R.id.recycler_view) RecyclerView mRecyclerView;
     private Realm mRealm;
 
     @Override
